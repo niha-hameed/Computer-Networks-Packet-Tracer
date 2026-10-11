@@ -4,9 +4,9 @@
 
 **Network simulation project | Cisco Packet Tracer**
 
-![Conceptual networking illustration](assets/network-concept.svg)
+![Actual Cisco Packet Tracer star topology](image.png)
 
-*Concept illustration for presentation only. This is not a screenshot or verified topology of the Packet Tracer file.*
+*Actual network topology from the project, showing four end devices connected to a Cisco 2960-24TT switch.*
 
 </div>
 
@@ -49,7 +49,9 @@ All four end devices are connected to the central switch. This documents the **v
 
 ## Screenshots
 
-The actual Cisco Packet Tracer topology screenshot can be placed at `assets/actual-topology.png`. The banner above is **illustrative only**, not evidence of specific network devices or successful connectivity.
+![Network topology screenshot](image.png)
+
+This screenshot shows the actual topology from the project. It does not by itself verify IP configuration or successful connectivity.
 
 ## Project status
 
