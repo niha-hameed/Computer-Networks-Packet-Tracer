@@ -12,13 +12,27 @@
 
 ## Overview
 
-This repository contains a computer networking assignment prepared using **Cisco Packet Tracer**. The original simulation file is available for inspection in Packet Tracer.
+This repository contains a basic **local area network (LAN)** built in **Cisco Packet Tracer**. The provided topology screenshot shows a **star topology** with four end devices connected to a central **Cisco 2960-24TT switch**. The original simulation file is available for inspection in Packet Tracer.
 
 ## Project file
 
 📁 **[Open the Packet Tracer project](Nihal_Hameed_Assignment1.pkt)**
 
 The original `.pkt` file is provided without modification.
+
+## Network topology
+
+The shared project screenshot shows:
+
+| Device | Label in the topology |
+| --- | --- |
+| Central switch | `2960-24TT` (`Nihal-Switch`) |
+| PC | `Home` |
+| PC | `Game` |
+| Laptop | `Nihal` |
+| Laptop | `Hameed` |
+
+All four end devices are connected to the central switch. This documents the **visible layout only**; IP addresses, connectivity tests, and additional device settings are not confirmed by the screenshot.
 
 ## Tools
 
@@ -35,7 +49,7 @@ The original `.pkt` file is provided without modification.
 
 ## Screenshots
 
-Actual topology and simulation screenshots can be added here after opening the project in Cisco Packet Tracer. The banner above is **illustrative only**, not evidence of specific network devices or successful connectivity.
+The actual Cisco Packet Tracer topology screenshot can be placed at `assets/actual-topology.png`. The banner above is **illustrative only**, not evidence of specific network devices or successful connectivity.
 
 ## Project status
 
